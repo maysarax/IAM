@@ -47,3 +47,6 @@ https://www.quora.com/What-are-the-best-open-source-identity-and-access-manageme
 
 https://wiki.shibboleth.net/confluence/display/NEWS/
 
+https://searchsecurity.techtarget.com/definition/identity-access-management-IAM-system
+
+https://www.csoonline.com/article/2120384/what-is-iam-identity-and-access-management-explained.html
