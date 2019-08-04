@@ -34,6 +34,16 @@ https://www.privacyidea.org//
 
 https://directory.apache.org/fortress/
 
+https://www.apereo.org/projects/cas
+
+https://www.conjur.org/
+
+https://daasi.de/en/federated-identity-and-access-management/iam-solutions/didmos/
+
+
+
+
+
 
 Reference
 
@@ -50,3 +60,11 @@ https://wiki.shibboleth.net/confluence/display/NEWS/
 https://searchsecurity.techtarget.com/definition/identity-access-management-IAM-system
 
 https://www.csoonline.com/article/2120384/what-is-iam-identity-and-access-management-explained.html
+
+https://solutionsreview.com/identity-management/the-10-best-free-and-open-source-identity-management-tools/
+
+https://www.g2.com/categories/privileged-access-management
+
+https://www.capterra.com/privileged-access-management-software/
+
+https://www.ssh.com/iam/pam/
