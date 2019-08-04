@@ -40,13 +40,22 @@ https://www.conjur.org/
 
 https://daasi.de/en/federated-identity-and-access-management/iam-solutions/didmos/
 
+https://www.mydlp.com/
+
 https://github.com/ezarko/opendlp
 
+https://www.ory.sh/
 
+https://github.com/ory
 
+https://fusionauth.io/
+
+https://github.com/fusionauth
 
 
 Reference
+
+https://jumpcloud.com/
 
 https://wiki.evolveum.com/display/midPoint/Introduction
 
