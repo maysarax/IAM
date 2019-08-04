@@ -40,6 +40,7 @@ https://www.conjur.org/
 
 https://daasi.de/en/federated-identity-and-access-management/iam-solutions/didmos/
 
+https://github.com/ezarko/opendlp
 
 
 
@@ -70,3 +71,9 @@ https://www.g2.com/categories/customer-identity-and-access-management
 https://www.capterra.com/privileged-access-management-software/
 
 https://www.ssh.com/iam/pam/
+
+https://jumpcloud.com/blog/open-source-alternative-to-okta/
+
+https://whatis.techtarget.com/definition/data-loss-prevention-DLP
+
+
