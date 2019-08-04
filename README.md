@@ -65,6 +65,8 @@ https://solutionsreview.com/identity-management/the-10-best-free-and-open-source
 
 https://www.g2.com/categories/privileged-access-management
 
+https://www.g2.com/categories/customer-identity-and-access-management
+
 https://www.capterra.com/privileged-access-management-software/
 
 https://www.ssh.com/iam/pam/
